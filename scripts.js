@@ -1,0 +1,1 @@
+file://%20add%20event%20listeners%20for%20"read%20more"%20buttonsdocument.queryselectorall('.read-more').foreach(function(button)%20{%20%20%20%20button.addeventlistener('click',%20function()%20{%20%20%20%20%20%20%20%20alert('this%20feature%20is%20coming%20soon!');%20%20%20%20});});/
